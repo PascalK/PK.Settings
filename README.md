@@ -1,13 +1,2 @@
-# PK
-## PK.Common
-### Enumerated
-### Reflection
--   ObjectExtensions
--   PropertyInfoExtensions
-
-## PK.Application
-### PK.Application.Web
-
+# PK ([![Build status](https://ci.appveyor.com/api/projects/status/6ajix30xk7s4g2cn)](https://ci.appveyor.com/project/PascalKlarenbeek/pk-settings))
 ## PK.Settings
-### PK.Settings.Configuration
-### PK.Settings.Win8.1
